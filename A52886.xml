@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the present state of New-England, Anno Domini 1690</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52886</idno>
+            <idno type="STC">Wing N57</idno>
+            <idno type="STC">ESTC R20012</idno>
+            <idno type="EEBO-CITATION">12353957</idno>
+            <idno type="OCLC">ocm 12353957</idno>
+            <idno type="VID">60067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 643:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the present state of New-England, Anno Domini 1690</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed p. 12: N.N.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New England --  Description and travel.</term>
+               <term>New England --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:60067:1" rendition="simple:additions"/>
+            <head>A Short Account OF THE Preſent STATE OF <hi>New-England.</hi> Anno Domini <hi>1690.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THAT large tract of Land, which lies between the Degrees of <hi>Forty</hi> and <hi>Forty-five,</hi> is known by the general Name of <hi>New-England,</hi> but divided into many Provinces and Colonies; muſt of which had, in times paſt, diſtinct Governments, and made ſuch Laws as ſeem'd beſt and moſt agreeable to their particular Frames and Conſtitutions; which interfering with the Intereſts of their Neighbours; and indeed, being framed for ſome private Intereſt, more than for the Publick Good, they lived not in that Peace and Quiet, which was neceſſary for the Preſervation and good Eſtabliſhment of thoſe Young Settlements, but had con<g ref="char:EOLhyphen"/>tinual petts &amp; differences among themſelves, till in the Year 1686 they were all united and caſt into one Government, which was committed to the care of Sir <hi>Edmond Androſs.</hi>
+            </p>
+            <p>The Names of the ſeveral Colonies and Provinces, are theſe that follow, <hi>Road, Iſland, Plymouth, Narraganſet</hi> Country, <hi>Connecticot, New-Hampſhire,</hi> Province of <hi>Maine,</hi> &amp; the <hi>Maſſachuſett's</hi>-Colony.</p>
+            <p>
+               <hi>Road-Iſland</hi> is of a conſiderable bigneſs, and juſtly called the <hi>Garden of New-England,</hi> for its Fertility and Pleaſantneſs. It abounds with all things neceſſary for the life of Man, is excel<g ref="char:EOLhyphen"/>lent
+<pb n="2" facs="tcp:60067:2"/>for Sheep, Kine and Horſes; and being environed by the Sea, it is free'd from the dangers of Bears, Wolves and Foxes, which much moleſt and damniſſe thoſe that live on the Con<g ref="char:EOLhyphen"/>tinent.</p>
+            <p>The People for ſome tract of time had a Charter to them<g ref="char:EOLhyphen"/>ſelves, lived under a Governour of their own chooſing, and Laws of their own making: But in Year 1686, upon ſerving the <hi>Quo Warranto,</hi> they freely reſigned up their Charter to His Majeſty, and continue ſo well ſatisſied with the ſurrender, that they do not ſo much as petition for their Charter again.</p>
+            <p>Here is a medley of moſt Perſwaſions, but neither Church nor Meeting-houſe, except one built for the uſe of the <hi>Quakers,</hi> who are here very numerous, and have annually a General Meeting from all Quarters.</p>
+            <p>Many of the others regard neither Time, nor Place, nor Worſhip; and even ſome very ſober men have lived ſo long without it, that they think all inſtituted Religion uſeleſs.</p>
+            <p>The People live in great plenty, ſend Horſes and Proviſi<g ref="char:EOLhyphen"/>ons to <hi>Barbadoes,</hi> and the <hi>Leeward-Iſlands,</hi> and ſell great num<g ref="char:EOLhyphen"/>bers of fat Oxen and Sheep to the Butchers of <hi>Boſton.</hi>
+            </p>
+            <p>The ſettlement of this Colony, was in this manner; The People of <hi>Boſton,</hi> who always had a perfect hatred againſt all thoſe who differed in Opinion from them, had ſome <hi>Quakers</hi> in the Land; and how to rid themſelves fairly of theſe, they had many Conſultations, which at laſt ended in this reſult; They would baniſh them to ſome place or other, from whence they might be ſure to be never troubled with them again; So they baniſh'd the <hi>Quakers</hi> to this Iſland, where in all pro<g ref="char:EOLhyphen"/>bability they muſt have periſh'd with hunger, or elſe been deſtroyed by the Heathens: hither theſe poor people being come, dig themſelves Caves in the earth, and by the kindneſs of the <hi>Indians,</hi> outlive the ſeverity of a long and ſharp Win<g ref="char:EOLhyphen"/>ter. The Spring coming on, they obtain'd leave from the <hi>Sachem</hi> to manure the ground, and in a little time wrought themſelves into good Eſtates, which ſome even of the firſt ſetlers enjoy to this day. Being thus happily ſettled, they Petitioned King <hi>Charles</hi> II. that they might have a Charter to themſelves, fearing leaſt they ſhould fell under the laſh of the <hi>Boſtoners</hi> again, who had been ſo Inhumane and Barbarous to them in their baniſhment.</p>
+            <p>
+               <hi>Plymouth</hi> compared with the former is but a mean and
+<pb n="3" facs="tcp:60067:2"/>poor Country, yet the ground well compenſates the Husband<g ref="char:EOLhyphen"/>man's labour with good crops of Corn; and being waſh'd by the Sea, they make great benefit by Fiſhery; as alſo their Bay, of late years, is much inrich'd by great numbers of Whales which come into it; and even the Rocky Mountains yield them conſiderable proſit, for on them grow plenty of Pine<g ref="char:EOLhyphen"/>trees, out of which they make abundance of Tar for their Ships.</p>
+            <p>The Religion of the Country is exactly after the model of <hi>Boſton</hi> and the <hi>Maſſachuſetts,</hi> from whom they receive Di<g ref="char:EOLhyphen"/>rections and Miniſters.</p>
+            <p>This People being without Law, and without Government from <hi>England,</hi> choſe Governours and made Laws for themſelves; of all which <hi>Hinckleys</hi> is the moſt Famous, whereby they ſtript the poor <hi>Quakers</hi> of all that many of them had, for not coming to their Meetings.</p>
+            <p>In this Eſtate they continued without any Charter, till King <hi>James</hi> ordered them to be under the Governmene of Sir <hi>Edmond Androſs.</hi> The late Addreſs they made to Their Majeſties, acknowledges as much, in which they petition for Their Majeſties Grant to be a diſtinct Government.</p>
+            <p>The <hi>Narraganſett</hi> Countrey is a large tract of Ground, lit<g ref="char:EOLhyphen"/>tle inhabited, but the greateſt part of the Country is taken up by ſeveral Perſons. Some of the <hi>Boſtoners</hi> claim a propriety for ſeveral miles together, but never take care to make the leaſt Improvement. Churches here are none, and but a few Houſes: I cannot ſay there is one <hi>Engliſh</hi> Town in the whole Province.</p>
+            <p>What is moſt conſiderable in the <hi>Narraganſett</hi> Country, is the ſettlement of the <hi>French Proteſtants;</hi> who, on the vio<g ref="char:EOLhyphen"/>lence of the Perſecution, left their Country, came over to <hi>New-England,</hi> and took up their habitation in this Wilderneſs; where they have made good improvement, live comfortably, and have planted great numbers of Vines, which they ſay thrive well, and it is hoped will be very beneficial to them.</p>
+            <p>This Wilderneſs leads to a very fertile and pleaſant Coun<g ref="char:EOLhyphen"/>try called <hi>Connecticott,</hi> which may be truly ſtyled the glory of the <hi>Maine,</hi> for richneſs of Soil, and product of the Ground; there being great plenty of Wheat, Barley and Grain, with a<g ref="char:EOLhyphen"/>bundance of Sheep, Kine and Horſes. It may well be called, as many will have it, the <hi>Aegypt</hi> of <hi>America</hi> from its wonderful
+<pb n="4" facs="tcp:60067:3"/>fertility, and that from the overflowing of the great Riven <hi>Connecticott,</hi> which, like <hi>Nilus,</hi> annually overfloweth the banks, and thereby inricheth the Soil.</p>
+            <p>This Country hath many inhabitants who live in great plenty, and communicate largely towards the ſupport of <hi>Boſton,</hi> whether they ſend annually great quantity of Wheat and other grain, with many Head of fed Cattle.</p>
+            <p>As <hi>New-England,</hi> in General, is Healthy, ſo this Countrey ſhares in that great Bleſſing. However, after great Glutts of Rain, the <hi>Feavey</hi> and <hi>Ague</hi> make ſome unwelcome Viſits among them.</p>
+            <p>Here are many Towns and Villages, the greateſt of all is called <hi>Hartford,</hi> where they have their general Meetings, and keep Courts of Judicature, and tranſact publick Affairs. In this Town are two Meeting-Houſes for publick Worſhip, which ſhews it is large and well Peopled.</p>
+            <p>In Religion, they generally follow the Model of the <hi>Maſſa<g ref="char:EOLhyphen"/>chuſetts Independents,</hi> by whom they are managed and governed in all things.</p>
+            <p>This People lived for ſome time under a Charter-Govern<g ref="char:EOLhyphen"/>met; but in the Year 1687, reſigning their Charter, they de<g ref="char:EOLhyphen"/>ſired to be put under Sir <hi>Edmond Androſs</hi>'s Government; and at his Arrival among them, they received him with great joy, and lived very quiet under him, till the grand riſing at <hi>Boſton,</hi> whoſe Example they followed, and ſet up their Char<g ref="char:EOLhyphen"/>ter again.</p>
+            <p>
+               <hi>New-Hampſhire</hi> is another Province, very healthy, and well ſettled, hath an excellent Harbour for Ships, where they may ride very ſecure in all weather. Their Soil is none of the beſt, nor the Countrey the moſt pleaſant in the World; but yet, as it is, they raiſe abundance of Corn and Proviſion; and the meanneſs of the Soil, is fully compenſated another way. For in this, and in the neighbouring Province of <hi>Maine,</hi> grow thoſe ſtately Trees, which make as good Maſts, as any in the World, and in ſuch abundance, that ſcarce any part of the World can ſhew the like. They ſend many to <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and have wherewith to ſupply, not only Their Ma<g ref="char:EOLhyphen"/>jeſties Navy, but if well Husbanded, the whole Nation. It is pity there ſhould be ſuch havock made of thoſe ſtately Trees, which without number they Yearly cut down and ſaw into Boards.</p>
+            <pb n="5" facs="tcp:60067:3"/>
+            <p>The People live friendly together, freer in Converſation than moſt of their Countrey-men, and given to Hoſpitality.</p>
+            <p>What Religion they have, comes from <hi>Boſton,</hi> but at pre<g ref="char:EOLhyphen"/>ſent, their chief Town is deſtitute of all publick Worſhip; for their Teacher, with whom they entred into mutual Church-Covenant, has forſaken them, having got himſelf a richer Church in <hi>Boſton.</hi>
+            </p>
+            <p>This people for many Years have lived under the imme<g ref="char:EOLhyphen"/>diate Government of the Crown of <hi>England;</hi> and being in the late riſing, ſtirred up by ſome of their neighbours, to aſ<g ref="char:EOLhyphen"/>ſume a Government to themſelves, anſwered, that they were well, and eaſy, and deſired ſo to continue.</p>
+            <p>The Province of <hi>Maine,</hi> is an excellent Tract of Land, but I am afraid at this time, without Inhabitants; the People be<g ref="char:EOLhyphen"/>ing either killed, or carried away captives, by the <hi>Indians,</hi> or elſe fled to <hi>Boſton</hi> for preſervation of their Lives.</p>
+            <p>As in <hi>New-Hampſhire,</hi> ſo here grow the Trees for Maſts, with all other ſorts of Timber for Shipping; upon which Account, it is preferable to any part of <hi>New-England.</hi> The Soil is very rich, well requiting the Husbandmans labour and pains: So bountiful hath Nature been to the Land, and no leſs kind to the Sea-coaſt: For on theſe ſhoars is the beſt Fiſh<g ref="char:EOLhyphen"/>ing ground in all the <hi>Engliſh</hi> Dominions, where are annually caught Ship-loads of <hi>Cod,</hi> and other great Fiſhes. For Har<g ref="char:EOLhyphen"/>bour, it may compare with moſt Countries of the World; having thoſe that are ſpacious and ſecure againſt all Storms, as if God Almighty had deſigned it for a great and mighty People. I lament the preſent deſolations of this Coun<g ref="char:EOLhyphen"/>trey; for it had Towns, Villages, and Forts, till very late<g ref="char:EOLhyphen"/>ly; but now the Towns are burnt, and the Forts demoliſhed, for which devaſtations, in great meaſure, they are bound to thank their New <hi>Lords</hi> of <hi>Boſton.</hi>
+            </p>
+            <p>The Governour, Sir <hi>Edmond Androſs,</hi> had ſo covered the Coun<g ref="char:EOLhyphen"/>trey againſt the Incurſions of the <hi>Indians,</hi> that all the time the Go<g ref="char:EOLhyphen"/>vernment reſted in his hands, the People were in the greateſt ſafety, and not the leaſt miſchief happened unto them.</p>
+            <p>But upon the Riſing of the People of <hi>Boſton,</hi> the <hi>Patriots</hi> there, re-called the Forces from thence, and left the whole Countrey a Prey to their ſavage Enemies. So that <hi>April</hi> laſt, when the <hi>Bostoners</hi> took the Reins of Government into their hands, to the <hi>30th.</hi> of <hi>July,</hi> there were above an hundred of the
+<pb n="6" facs="tcp:60067:4"/>poor Countrey People killed, or carried away captives, Houſes burnt, Forts razed, and all their Goods pillaged by the Enemy.</p>
+            <p>It remains to give a Deſcription of the <hi>Maſſachuſetts,</hi> which is the leaſt of all the <hi>Coloines,</hi> but would be accounted the greateſt; nay, they are very deſirous to appropriate the name of <hi>New-England</hi> to themſelves, and endeavour what they can to extend their Com<g ref="char:EOLhyphen"/>mon-wealth over the greateſt part of that Continent.</p>
+            <p>For they claim a right to a great part of the <hi>Narraganſet</hi>-Coun<g ref="char:EOLhyphen"/>trey, alledging that the Lands belong to them, becauſe they bought it of the Natives.</p>
+            <p>In the like manner, they ſay, that the Province of <hi>Maine</hi> is theirs; for Mr. <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> bought the Government, as well as the Soil of the <hi>Proprietor,</hi> and they bought it of Mr. <hi>
+                  <g ref="char:V">Ʋ</g>ſher.</hi> They may alſo lay a Title to <hi>Connecticott,</hi> and <hi>Plymouth;</hi> becauſe there, the generallty of the People are of the ſame perſwaſion with them of <hi>Boſton,</hi> and thoſe <hi>Colonies</hi> have all along been Governed and Ma<g ref="char:EOLhyphen"/>naged by the <hi>Maſſachuſetts.</hi> But yet by their Charter, they are bounded within <hi>Merimack</hi> River, and <hi>Charles</hi> River; which bounds it is to be hoped Their Majeſties will not ſuffer them to exceed.</p>
+            <p>The Countrey in ſome part is very ſtony and mountainous, ſo that for many miles together, little elſe is to be ſeen but Shrubs, a few ſcattering Trees, and the griſly head of Rocks. In other places, it is very dry and ſandy, little profitable to the Husband<g ref="char:EOLhyphen"/>man, without great plenty of Rain and Showers. The Soil is but poor of it ſelf; and yet at firſt ſettlement, the Countrey-mans la<g ref="char:EOLhyphen"/>bour was well rewarded with good crops of Wheat, excellent Peaſe, and other Grain; but for many Years, the Wheat hath been con<g ref="char:EOLhyphen"/>tinually blaſted, and the Peaſe breed a Worm in themſelves, which eats out the heart, and leaves only the husk for the Planter.</p>
+            <p>For the generality of the people, they are very cenſorious, and ready, on all occaſions, to judge one another; and ſome there are among themſelves that attribute this plague to the immediate hand of God for the cruelty of the people againſt the <hi>Quakers.</hi> The cauſe is ſecret, but it is a general obſer<g ref="char:EOLhyphen"/>vation, that much about that time when the <hi>Quakers</hi> ſuffered, came the blaſting on the Wheat, and the Worm into the Peaſe.</p>
+            <p>
+               <hi>Indian</hi> Corn is the ſtaff of the Land, and that on which they have the greateſt dependance; for if that fails, all is gone. The ſins committed in Husking of it are very great and no<g ref="char:EOLhyphen"/>torious,
+<pb n="7" facs="tcp:60067:4"/>it is much to be feared God will enter into judge<g ref="char:EOLhyphen"/>ment with them for it, and ſmite the <hi>Indian</hi> Corn with a Curſe.</p>
+            <p>The Commodities of the Colony are quickly reckoned up; for thô in Print they boaſt of the Trade they can drive with their Fiſh and Lumber-Goods, yet they have in truth, but lit<g ref="char:EOLhyphen"/>tle Lumber, and leſs Fiſh, except what they receive from the Fiſhermen and Inhabitants of the Province of <hi>Maine</hi> and <hi>New Hampſhire,</hi> and not one Tree in the Land that will make a Maſt for a Ship. 'Tis true, the <hi>Maſſachuſetts</hi> build many Ships, and other Veſſels, but they bring moſt of their Materials from other Countreys; as alſo they ſend abroad many Veſſels laden with Boards, Pipe, Staves, and Proviſions, all which are but as borrowed Goods which they fetch out of the neighbouring Colonies.</p>
+            <p>This Colony hath many Towns and Villages, of which the greateſt is <hi>Boſton,</hi> large and well peopled, where are kept the Courts of Judicature, and the publick Records of the Countrey.</p>
+            <p>The people are naturally courteous, affable and obliging, but for the Government of them, who are all of the gather<g ref="char:EOLhyphen"/>ed Churches, <hi>their Separate way</hi> makes them very high and un<g ref="char:EOLhyphen"/>ſociable, looking on others as mean abject creatures, who de<g ref="char:EOLhyphen"/>ſerve their <hi>Pity</hi> rather than their <hi>Company.</hi>
+            </p>
+            <p>In their Dealings they are very craſty and ſubtle, out-doing even Jews themſelves, who (as I heard a <hi>New-England-man</hi> boaſtingly ſay) could not live amongſt them. They are watch<g ref="char:EOLhyphen"/>ful of all advantages over them they deal with, and when they have a Man within their Clutches, gripe him unmerci<g ref="char:EOLhyphen"/>fully. In their Treats they are very laviſh and expenſive; where they cohceive a prejudice they are revengeful, and very Religiouſly pray for deſtruction on their Enemies. Hence ſome that knew them very well, have given this caution to their Children, <hi>Above all Perſons, take heed of a Profeſſor.</hi>
+            </p>
+            <p>This I ſay for the generality of them, not but that there are many worthy, charitable, and Religious people among them, (who as I am fully perſwaded) ſerve God with a perfect heart, and love their Neighbour with love unfeigned.</p>
+            <p>But as in all other places, ſo among the <hi>Maſſachuſetts,</hi> Vice greatly abounds, and there is no ſin in <hi>Old England,</hi> but what is practiced in the <hi>New.</hi> However ſome Sins ſpeed worſe among them than others. Swearing, Curſing; and Blaſpheming
+<pb n="8" facs="tcp:60067:5"/>are juſtly diſcountenanc'd: but they who ſcruple an Oath will make no conſcience to Lye or Cheat for advantage. The Capital Vices are Sloth and Idleneſs, Cheating and Cenſoriouſneſs; prone they are alſo to a Sin of Frailty (as they term it) and Laſciviouſneſs, which appears too much in their Common Converſation.</p>
+            <p>The <hi>Trade</hi> of the Countrey is well known, and for the moſt part unlawful. Of all the <hi>Colonies</hi> this has been moſt prejudicial to the <hi>Kings Cuſtomes,</hi> and the <hi>Trade</hi> of <hi>England,</hi> which hath been ſufficiently proved againſt them. Of themſelves they bring no conſiderable <hi>Ravenue</hi> to the Crown, of which more in the <hi>Re<g ref="char:EOLhyphen"/>marks,</hi> as alſo of their famous <hi>Colledge,</hi> and great works of <hi>Evan<g ref="char:EOLhyphen"/>gelizing Indians.</hi>
+            </p>
+            <p>The Laws of <hi>England</hi> are of no Credit among them, and when pleaded in their Courts are little regarded; but they have Compoſed a body of Laws for themſelves, which are Printed together in a thin Folio. The Book is ſcarce to be had here in <hi>England,</hi> and therefore not at all taken notice of; otherwiſe it would move the Publick Indignation to ſee how the Fortunes and Lives of their Majeſties Subjects are diſpoſed of by a Combination of Men, that think themſelves Wiſer than the Parliament of this Kingdom.</p>
+            <p>The Government was firſt by way of Charter, which was chiefly Managed by the <hi>Teachers.</hi> Theſe by their power with the people, made all the Magiſtrates, and kept them ſo en<g ref="char:EOLhyphen"/>tirely under Obedience, that they durſt not act without them. So that whenever any thing ſtrange or unuſual, was brought before them, they would not determine the matter without conſulting the <hi>Teacher.</hi> For ſhould any be ſo ſturdy as to preſume to act of himſelf without taking their advice and di<g ref="char:EOLhyphen"/>rection, he might be ſure of it, his Magiſtracy ended with the Year.</p>
+            <p>The World, juſtly condemns the Uſurped Power of the <hi>Popiſh Clergy</hi> over the <hi>Laity,</hi> yet the <hi>Prieſts</hi> even in <hi>Italy,</hi> have not a greater <hi>Aſcendant</hi> over the People than the <hi>Teachers</hi> in <hi>New-England.</hi>
+            </p>
+            <p>And that they might perpetuate the Government to them<g ref="char:EOLhyphen"/>ſelves, they ſo brought things about (as indeed they might do what they liſted) that it was paſt into a Law, that none ſhould have any thing to do with the Government, that was not a Freeman of the Country; and none ſhould be made a
+<pb n="9" facs="tcp:60067:5"/>Freeman, who was not in full Communion with their Churches, that is, who ſhould not in all points be of the Preachers Opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>The way of making Freeman was after this manner. He that deſired the Freedom of the Country came, and made known his requeſt to the Court; whom thô never ſo ſober in Life and Converſation, if he favoured not the <hi>Independent</hi> per<g ref="char:EOLhyphen"/>ſuaſion, he was certainly rejected, either as an Enemy to the Church or State; But whoever came with ſuch powerful Cre<g ref="char:EOLhyphen"/>dentials as theſe, <hi>The Bearer is a godly Man, and in Communi<g ref="char:EOLhyphen"/>on with ſuch a Church, Given under my hand N. N.</hi> or <hi>under the hands of his Deacons.</hi> Such a Man needed not to ſeek for other Arguments to gain the favour of the Magiſtrates, for without any other formality he might be ſure to have the grant of his Freedom. For this reaſon many formal Hypo<g ref="char:EOLhyphen"/>crites, who were ambitious of Honour and Preferment, would work themſelves into the favour of the <hi>Teachers.</hi> To this end, beſides many coſtly Treats and Preſents, they would in the Meeting-Houſes frame Stories of their Converſion, and enter in<g ref="char:EOLhyphen"/>to Church-Covenant (as the Phraſe is) and make a <hi>long Cant</hi> how the Work of Grace was wrought on their hearts, by the Sermon or Pains of one of the Leading <hi>Teachers.</hi> Whereupon ſuch were admitted into the Fraternity, and made Church-Mem<g ref="char:EOLhyphen"/>bers, and there they were in a fair way to the higheſt Pre<g ref="char:EOLhyphen"/>ferment.</p>
+            <p>It was pleaſant to behold poor <hi>Coblers</hi> and pitiful <hi>Mecha<g ref="char:EOLhyphen"/>nicks,</hi> which had neither Houſe nor Land, ſtruting and making no mean Figure at their Elections; and ſome of the richeſt Merchants and wealthieſt People ſtand by as inſignificant Cy<g ref="char:EOLhyphen"/>phers; or in the words of one of their own, who thought he cha<g ref="char:EOLhyphen"/>ractariz'd them ingeniouſly, as ſo many Aſſes to bear the Loads that ſhould be laid upon them.</p>
+            <p>In the late Riſing there were many Diviſions among the People, what Government to erect. Many of the Council (as they term'd themſelves) were for declaring themſelves a Free-State. But Mr. <hi>Stoughton</hi> well knowing their weakneſs, would not Subſcribe the Summons ſent to the Governour, unleſs depen<g ref="char:EOLhyphen"/>dance on the Crown of <hi>England</hi> ſhould be inſerted into the De<g ref="char:EOLhyphen"/>claration. Some were for a Court-Martial and Military-Go<g ref="char:EOLhyphen"/>vernment, becauſe what they got by the Sword, they ought to keep by the Sword. Others were for Election of Governour
+<pb n="10" facs="tcp:60067:6"/>and Magiſtrates by all the People. But the <hi>Teachers,</hi> who all along were the Chief in the Councils, and carried the Ballance in their hands, diſlik'd ſuch Propoſals, for then they ſhould loſe their Power; and therefore they moved, that the old Goyer<g ref="char:EOLhyphen"/>nour and Magiſtrates formerly of their own making might be reſtored, with the Addition of ſome confiding Men, whom they had proved and found Faithful, to ſupply the Vacancies of thoſe Magiſtrates which were dead; to whom all bowed and paid Obedience: So that now the Government is ſafely lodged in the hands of the <hi>Teachers</hi> again.</p>
+            <p>'Tis hard to give an acccount of the Religion of the Colo<g ref="char:EOLhyphen"/>ny where ſo many know not what Religion they are of, and when demanded a reaſon of their Faith, can ſay little more than that they are Hearers of Mr. <hi>Mather,</hi> or Members of the <hi>Old Church,</hi> or under the watch of the <hi>South Meeting-Houſe.</hi>
+            </p>
+            <p>But having promiſed an account of the Country, it is neceſ<g ref="char:EOLhyphen"/>ſary that I ſhould give ſome account of their Religion, becauſe it is a large Topick of their diſcourſe, makes the great noiſe among the People.</p>
+            <p>The firſt Setlers were a good ſerious ſort of People who had the fear of God before their eyes, and firm aſſurance of his providence, otherwiſe they never had undertaken that ha<g ref="char:EOLhyphen"/>zardous deſign. I cannot ſay what perſuaſion they were of, but this I know they ſtil'd themſelves Children of the <hi>Church of England,</hi> and counted it their glory to be called after her Name; and at their departure from hence, in all humble duty they deſired the Prayers of the Biſhop of <hi>London</hi> and his <hi>Clergy,</hi> for them, who came out of their own boſoms, and who ſhould continually offer up their Prayers to the Throne of Grace for the Proſperity of the Church. All which with a great deal more to the ſame effect was written in a Letter ſent to the Biſhop of <hi>London</hi> from on board the <hi>Arabella,</hi> and ſub<g ref="char:EOLhyphen"/>ſcribed by <hi>Governour, Magiſtrates</hi> and <hi>Miniſters.</hi>
+            </p>
+            <p>But they had not been long in the <hi>New World,</hi> before all forts of People flock'd over unto them, of as different Princi<g ref="char:EOLhyphen"/>ples as places; which cauſed no ſmall trouble to the Inhabl<g ref="char:EOLhyphen"/>tants, for one was for this Model, another for that Plat<g ref="char:EOLhyphen"/>form; ſo that they were like to be ſcattered and deſtroyed by Religion, which ſhould have united and preſerved them.</p>
+            <p>It was therefore thought neceſſary ſomething ſhould be Eſta; bliſhed, that they might not be always a confuſed <hi>Babel:</hi>
+               <pb n="11" facs="tcp:60067:6"/>Whereupon after much Strife and Contention they ſetled on <hi>Independency,</hi> which hath indeed a ſhew of much Purity and Ho<g ref="char:EOLhyphen"/>lineſs, but hath in truth that which is highly Superſtitious, as Mr. <hi>Willard,</hi> one of their own, declared in a Publick Convoca<g ref="char:EOLhyphen"/>tion; and as another <hi>Non-Conformiſt</hi> Miniſter term'd it <hi>Paga<g ref="char:EOLhyphen"/>nizing Independency.</hi> For three fourths of the Country never participate of the <hi>Lords Supper,</hi> and if any ſhould beg it, as for the Salvation of his Soul, yet he could not obtain his re<g ref="char:EOLhyphen"/>queſt without coming up to their Terms, and telling Stories of the time of this Converſion, and when the Work of Grace was wrought upon his heart. Even in the ſpace of little more than one Generation, near one half of the People are <hi>
+                  <g ref="char:V">Ʋ</g>n-baptized,</hi> and let Parents do what they can for their Children, let them give never ſo good account of their Faith, and live never ſo uprightly towards God and Man, yet their Children ſhall not be admitted to Baptiſm, unleſs one of the Parents be of <hi>their Communion,</hi> and promiſes to walk after the <hi>Church Covenant;</hi> ſo that in a few Ages by their <hi>Independent</hi> Practice, <hi>Paganiſm</hi> will a ſecond time overcome the Land, and there will be as much need of <hi>Evan<g ref="char:EOLhyphen"/>gelizing</hi> the <hi>Engliſh,</hi> as there is now of the <hi>Indians.</hi>
+            </p>
+            <p>This overtoping Perſuaſion would have none to grow under it, if continual droping could prevent it; yet its natural Iſſue <hi>Anabaptiſm</hi> ſprouts out amain. However the <hi>Independants</hi> have treated the <hi>Anabaptiſts</hi> very unkindly, fined them for not com<g ref="char:EOLhyphen"/>ing to the <hi>Independent Aſſemblies,</hi> nailed up the Doors of their Meeting-Houſes, and turned them into the Streets.</p>
+            <p>Beſides theſe, there is another Sect arrived to great Perfection, who were for none but <hi>King Jeſus.</hi> Alſo there are <hi>Quakers,</hi> notwithſtanding the Severities that they have ſuffered among them, all theſe having ſuffered Baniſhment formerly, and ſome of them having been put to Death for their Religion.</p>
+            <p>For theſe and many other Uſurpations and Stretches of Go<g ref="char:EOLhyphen"/>vernment, a <hi>Scire facias</hi> was iſſued out of the High Court of Chancery, and timely notice given them for their ap<g ref="char:EOLhyphen"/>pearance. (But they well knowing their own Guiltineſs) never took care that any ſhould appear and defend the Suit, but ſent their <hi>Agents</hi> with a Power to laviſh out four or five thouſand pounds to corrupt Juſtice. Whereupon after theſe delays had continued for ſome years, at laſt Judgement was entred againſt them; and the then King <hi>Charles</hi> II. reſumed
+<pb n="12" facs="tcp:60067:7"/>their Charter-Grant, that their hands might be tyed up from perſecuting their Brethren and doing more Miſchief.</p>
+            <p>Afterward in the Year 1686. Sir. <hi>Edmond Androſs</hi> came o<g ref="char:EOLhyphen"/>ver with a Commiſſion to Govern the Countrey, and during the time that he was in the Government (as it will certainly appear when the matter comes to be examined by indifferent Judges) he carried himſelf courteouſly and obligingly to all, gave an excellent Patern of Sobriety and Temperance, and in all things perform'd the Duty of a good Governour.</p>
+            <p>But becauſe he would not let the <hi>Teachers</hi> have their Wills in all things, and follow their directions in every matter; there<g ref="char:EOLhyphen"/>fore they raiſed falſe Accuſations againſt him, leſſened his good Actions, and miſrepreſented his <hi>Government</hi> to the People as <hi>Illegal</hi> and <hi>Arbitrary:</hi> and not contented herewith, the <hi>Heads</hi> of the <hi>Party</hi> came over hither into <hi>England,</hi> and charged him with <hi>Injuſtice, Oppreſſion</hi> and <hi>Violence,</hi> made Addreſſes to King <hi>James,</hi> promiſing to do whatſoever he would have them, and to be inſtrumental with their <hi>Party</hi> in <hi>England</hi> to pull down the Fence againſt <hi>Popery,</hi> and <hi>Repeal</hi> the <hi>Penal Laws.</hi> Parti<g ref="char:EOLhyphen"/>cularly they Courted <hi>William Pen,</hi> and made their Humble Applications to Father <hi>Petre,</hi> to have the Governour recall'd and their Old Charter reſtored.</p>
+            <p>But when all theſe accuſed Methods proved ineffectual, what the <hi>Quaker</hi> could not do, and what the <hi>Popiſh Prieſt</hi> would not, impatient of any delays, they attempted themſelves on the <hi>18th</hi> of <hi>April,</hi> in a Tumultuous manner, they wreſted the Government out of Sir <hi>Edmond's</hi> hand, made him Priſoner, and ſo they did all others of the <hi>Church</hi> of <hi>England</hi> as by Law Eſtabliſhed, who were in any Office <hi>Civil</hi> or <hi>Military,</hi> com<g ref="char:EOLhyphen"/>mitting him and ſome other Gentlemen to the <hi>Fort,</hi> others to the <hi>Caſtle,</hi> and more to the <hi>Common Goal.</hi>
+            </p>
+            <p>The particulars of this Tranſaction may in convenient time be made publick. In the mean while, I beg of you, and of all other Gentlemen, to whom you ſhall think fit to communi<g ref="char:EOLhyphen"/>cate this Paper, that you would be pleaſed to ſuſpend your Judgements concerning the Caſe of the <hi>Complainants,</hi> till the Matter, in Queſtion, comes to be heard before its proper Judges. I am,</p>
+            <closer>
+               <signed>Yours, <hi>N. N.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
